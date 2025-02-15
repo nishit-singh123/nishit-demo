@@ -1,3 +1,4 @@
 # nishit-demo
 This is my first git repository.
-Author-NISHIT SINGH.
+<br>
+Author-NISHIT SINGH(amity university).
